@@ -1,4 +1,4 @@
-## Hi there I am Hemant👋
+## Hi I am Hemant👋
 
 <!--
 **Hemant Rajapurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
